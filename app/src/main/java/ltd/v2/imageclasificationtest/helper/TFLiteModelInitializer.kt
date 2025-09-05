@@ -1,4 +1,4 @@
-package ltd.v2.imageclasificationtest
+package ltd.v2.imageclasificationtest.helper
 
 import android.content.Context
 import org.tensorflow.lite.Interpreter
