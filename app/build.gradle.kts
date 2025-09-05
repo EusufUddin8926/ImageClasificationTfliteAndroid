@@ -53,5 +53,6 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 
-    implementation("com.google.ai.edge.litert:litert:1.0.1")
+    implementation(libs.litert)
+    implementation(libs.ucrop)
 }

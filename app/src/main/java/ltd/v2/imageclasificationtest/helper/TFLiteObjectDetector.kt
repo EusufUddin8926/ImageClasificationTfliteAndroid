@@ -1,6 +1,8 @@
+package ltd.v2.imageclasificationtest.helper
+
 import android.graphics.Bitmap
-import org.tensorflow.lite.Interpreter
 import org.tensorflow.lite.DataType
+import org.tensorflow.lite.Interpreter
 import org.tensorflow.lite.support.image.ImageProcessor
 import org.tensorflow.lite.support.image.TensorImage
 import org.tensorflow.lite.support.image.ops.ResizeOp
